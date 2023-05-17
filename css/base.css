@@ -456,6 +456,13 @@ textarea {
 	padding: 0 20px;
 }
 
+.column1 {
+	width: fit-content;
+	overflow: auto;
+	white-space: nowrap;
+	padding-right: 1rem;
+}
+
 .collapse>.column,
 .column.collapse {
 	padding: 0;
